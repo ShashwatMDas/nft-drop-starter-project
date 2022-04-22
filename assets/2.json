@@ -1,0 +1,19 @@
+{
+    "name": "CHELSEA_3",
+    "symbol": "CHE3",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "url": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "2vK531xkkQQe4StfoaYmqVEXhB7L6iS5ZTFHzikoCF5E",
+                "share": 100
+            }
+        ]
+    }
+}
